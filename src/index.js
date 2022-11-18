@@ -1,7 +1,8 @@
 import React from 'react';
-import './style/style.scss';
 import ReactDom from 'react-dom';
 import App from './components/App';
+import NavbarElement from './components/NavbarElement';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './style/style.scss';
 
-ReactDom.render(<App />, document.getElementById('root'));
+ReactDom.render(<NavbarElement />, document.getElementById('nav'));
