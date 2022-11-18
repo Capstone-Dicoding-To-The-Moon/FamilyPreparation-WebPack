@@ -12,3 +12,14 @@ body{
     color: green;
     border: 1px solid green;
 }
+
+#footer{
+    background-color: grey;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.footerCopy{
+    text-align: center;
+}
