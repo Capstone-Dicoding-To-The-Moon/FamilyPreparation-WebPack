@@ -1,5 +1,9 @@
 # FamilyPreparation-WebPack
+Repository awal untuk pengembangan aplikasi family preparation namun sudah diperbarui kembali dengan beberapa alasan tertentu menjadi ke repository FamilyPreparation-Final. <br>
+(https://github.com/Capstone-Dicoding-To-The-Moon/FamilyPreparation-Final.git)
+
 Repositori untuk menyimpan code dari aplikasi Family Preparation dengan menggunakan module bundler webpack
+
 
 # How To Use
 <ul>
