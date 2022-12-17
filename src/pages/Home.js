@@ -1,10 +1,14 @@
 import React from "react";
+import Carousel  from "../components/Carousel";
+import CardList from "../components/CardList";
 
 const HomePage = () => {
-    console.log("ini home page");
     return (
-        <h1>Hello World</h1>
-    )
+        <div>
+            <Carousel />
+            <CardList /> 
+        </div>
+    );
 }
 
 export default HomePage;
